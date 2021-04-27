@@ -1,4 +1,4 @@
-## _NUESTROS CONTRINCANTES_
+ ## _NUESTROS CONTRINCANTES_
 >En esta revisión, veremos a 2 pesos pesados en la industria de los componentes para pc. Así es, hablaremos sobre esas poderosas bestias que están rompiendo con el mercado, las tarjetas: Nvidia GeForce RTX 3090 y AMD RX 6900 XT.
 ## NVIDIA                                                                                                                                                     
 GEFORCE RTX 3090
@@ -64,11 +64,12 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Leonardo Figueroa    
+ Bastian Valdivieso</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd></dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Chile</dd>
 <dt>Color</dt>
 <dd>Blue</dd>
 </dl>
