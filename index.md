@@ -1,9 +1,14 @@
+## NUESTROS CONTRINCANTES
+En esta revisión, veremos a 2 pesos pesados en la industria de los componentes para pc. Así es, hablaremos sobre esas poderosas bestias que están rompiendo con el mercado, las tarjetas: Nvidia GeForce RTX 3090 y AMD RX 6900 XT.
 ## NVIDIA                                                                                                                                                     
 GEFORCE RTX 3090
 LA JUGADA DEFINITIVA
 La GeForce RTX™ 3090 es increíblemente potente en todas las formas, por lo que te brinda un nivel de rendimiento completamente nuevo. Está impulsada por Ampere, la arquitectura de segunda generación de NVIDIA RTX, que duplica el rendimiento de IA y de ray tracing gracias a los Núcleos RT y Núcleos Tensor mejorados y los nuevos multiprocesadores de transmisión. Además, cuenta con 24 GB de memoria G6X para brindar la experiencia de juego definitiva.
 ![Octocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xataka.com%2Fcomponentes%2Fnvidia-geforce-rtx-3000-caracteristicas-precio-ficha-tecnica&psig=AOvVaw286mQEXBN7uiWZ2rERRv_E&ust=1619579461658000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCV7ea5nfACFQAAAAAdAAAAABAE)
 
+## AMD
+RX 6900 XT 
+EL CABALLO DE GUERRA POR PARTE DE AMD
 
 
 
