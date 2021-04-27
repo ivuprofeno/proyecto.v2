@@ -1,5 +1,6 @@
  ## _NUESTROS CONTRINCANTES_
 - En esta revisión, veremos a 2 pesos pesados en la industria de los componentes para pc. Así es, hablaremos sobre esas poderosas bestias que están rompiendo con el mercado, las tarjetas: Nvidia GeForce RTX 3090 y AMD RX 6900 XT.
+
 ## NVIDIA                                                                                                                                                     
 GEFORCE RTX 3090
 _LA JUGADA DEFINITIVA_
@@ -21,8 +22,6 @@ Tamaño de la Memoria	24 GB
 Tipo de Memoria	GDDR6X
 
 
-
-
 ## AMD
 RX 6900 XT 
 EL CABALLO DE GUERRA POR PARTE DE AMD
@@ -36,32 +35,7 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 ![Octocat](https://www.profesionalreview.com/wp-content/uploads/2020/10/AMD-Radeon-RX-6900-XT-000165.jpg)
 
 
->
-### And a nested list:
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-   
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
