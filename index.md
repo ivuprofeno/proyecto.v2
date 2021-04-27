@@ -54,25 +54,10 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 
 
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Leonardo Figueroa        
-         Bastian Valdivieso</dd>
-<dt>Born</dt>
-<dd></dd>
-<dt>Birthplace</dt>
-<dd>Chile</dd>
-<dt>Color</dt>
-<dd>Blue</dd>
-</dl>
-
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+Esta pagina web fue creada con fines educativos para la asignatura de "tecnologias para la gestion" universidad autonoma. hecho por Bastian Valdivieso y Leonardo Figueroa.
 ```
 
 ```
-The final element.
+Hmuchas gracias por llegar hasta acá <3.
 ```
