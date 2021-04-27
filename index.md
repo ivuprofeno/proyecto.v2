@@ -59,5 +59,5 @@ Esta pagina web fue creada con fines educativos para la asignatura de "tecnologi
 ```
 
 ```
-Hmuchas gracias por llegar hasta acá <3.
+Muchas gracias por llegar hasta acá <3.
 ```
