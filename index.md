@@ -26,6 +26,7 @@ Tipo de Memoria	GDDR6X
 ## AMD
 RX 6900 XT 
 EL CABALLO DE GUERRA POR PARTE DE AMD
+- La tarjeta XT gráfica AMD Radeon™ RX 6800 XT, potenciada con la arquitectura AMD RDNA™ 2 y equipada con 80 potentes unidades de procesamiento mejoradas, 128MB de la flamante tecnología AMD Infinity Cache y 16GB de memoria GDDR6 dedicada, está diseñada para alcanzar velocidades de cuadros ultraaltas y jugar en 4K con una calidad deslumbrante.
 
 
 
