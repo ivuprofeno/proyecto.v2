@@ -30,7 +30,9 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 
 
 
-## Header 2
+## COMPARATIVA
+![Octocat](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.profesionalreview.com%2Fwp-content%2Fuploads%2F2020%2F10%2FAMD-Radeon-RX-6900-XT-000165.jpg&imgrefurl=https%3A%2F%2Fwww.profesionalreview.com%2F2020%2F10%2F28%2Famd-radeon-rx-6900-xt-compite-rtx3090%2F&tbnid=nSr2pM55t4sTfM&vet=12ahUKEwiWr5ez3p3wAhX9MrkGHfmFBo0QMygBegUIARCVAQ..i&docid=xQidVmXDDksy1M&w=1067&h=559&q=comparativa%203090%20rx6900xt&ved=2ahUKEwiWr5ez3p3wAhX9MrkGHfmFBo0QMygBegUIARCVAQ)
+
 
 >
 ### And a nested list:
