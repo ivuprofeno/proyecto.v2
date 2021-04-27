@@ -20,7 +20,7 @@ Frecuencia Modificada	1.70 GHz
 Tamaño de la Memoria	24 GB
 Tipo de Memoria	GDDR6X
 
-## VALOR DE SALIDA EL PRODUCTO
+## VALOR DE SALIDA DEL PRODUCTO
 Al salir este la nueva GTX 3090 el precio que estremeció el mercado fue de nada mas y nada menos que $1,499 dolares, sin embargo, hoy en dia esa cifra aumento debido al escaso
 stock por parte de las compañias que producen este producto, llegando de esta manera al desorbitante valor de $3445 dolares!.
 
@@ -39,45 +39,21 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 
 ## ESPECIFICACIONES
 >- Unidades de cómputo: 80.
-
 >- Aceleradores de rayos: 80.
-
 >- Frecuencia de aumento: 2250 MHz.
-
 >- Frecuencia de juego: 2015 MHz.
-
 >- Procesadores de transmisión: 5120.
 
+## VALOR DE SALIDA DEL PRODUCTO
+>La Radeon RX 6900 XT se encuentra disponible en comercios físicos y en línea, también en AMD.com, con un precio estimado de $999 USD, en Estados Unidos. Pero en estos dias debido a la inflacion de precios a causa de la escacez, la cifra alcanza mas de $2000 dolares.
 
 
 ## COMPARATIVA
+Como veis, se corrobora la idea de que la RTX 3090 gana ventaja sobre la 6900 XT con el aumento de la resolución. Pero aquí la gran clave es que la diferencia de precio es inmensa actualmente, pues estaríamos pagando (si las gráficas se vendiesen a su precio normal) un 50% más por unas ganancias del 7% en rendimiento. Aquí entrará el presupuesto de cada uno y a qué titulos concretos va a jugar. También es cierto que esta misma argumentación sirve para recomendar la RTX 3080 y RX 6800 XT sobre la RTX 3090 y RX 6900 XT, dado que no hay diferencias de rendimiento excesivas, como se pudo ver en los gráficos de arriba.
+
 ![Octocat](https://www.profesionalreview.com/wp-content/uploads/2020/10/AMD-Radeon-RX-6900-XT-000165.jpg)
 
 
->
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
