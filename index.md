@@ -38,11 +38,15 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 >De la tarjeta de video Radeon RX 6900 XT puedes esperar un rendimiento 4K que supera los 60 fps en la mayoría de los juegos modernos. No obstante, una cosa es ofrecer tasas de fotogramas en 4K y otra es hacerlo con coherencia en varios juegos y puntos de referencia. Lo cierto es que esta tarjeta gráfica raramente alcanza el rendimiento de la RTX 3090 de Nvidia, excepto en los casos en los que la RX 6800 XT también logra superar a la RTX 3090, lo que no pasa muy a menudo.
 
 ## ESPECIFICACIONES
->- Unidades de cómputo: 80
->Aceleradores de rayos: 80
->Frecuencia de aumento: 2250 MHz
->Frecuencia de juego: 2015 MHz
->Procesadores de transmisión: 5120
+>- Unidades de cómputo: 80.
+
+>- Aceleradores de rayos: 80.
+
+>- Frecuencia de aumento: 2250 MHz.
+
+>- Frecuencia de juego: 2015 MHz.
+
+>- Procesadores de transmisión: 5120.
 
 
 
