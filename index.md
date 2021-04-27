@@ -8,20 +8,20 @@ _LA JUGADA DEFINITIVA_
 ![Octocat](https://www.gigabyte.com/FileUpload/Global/KeyFeature/1656/innergigabyteimages/kf-img.png)
  
  ## GAMING EN 8K HDR
-Conecta dispositivos, juega, captura contenido y míralo en brillante HDR con una resolución hasta 8K gracias a GeForce RTX 3090. El puerto HDMI 2.1 permite disfrutar de la resolución 8K con un solo cable. Captura contenido HDR hasta en 8K con la función GeForce Experience™ ShadowPlay™ y reprodúcelo de forma fluida con el decodificador AV1.
+>Conecta dispositivos, juega, captura contenido y míralo en brillante HDR con una resolución hasta 8K gracias a GeForce RTX 3090. El puerto HDMI 2.1 permite disfrutar de la resolución 8K con un solo cable. Captura contenido HDR hasta en 8K con la función GeForce Experience™ ShadowPlay™ y reprodúcelo de forma fluida con el decodificador AV1.
 
 ## LA VICTORIA SE MIDE EN MILISEGUNDOS NVIDIA
 
-Reflex ofrece la mejor ventaja competitiva. La latencia más baja. La mejor respuesta. Con las GPUs GeForce RTX Serie 30 y los monitores gamers NVIDIA G-SYNC®. Apunta a los objetivos más rápido, reacciona con más velocidad y aumenta la precisión de la mira mediante un revolucionario conjunto de tecnologías diseñadas para optimizar y medir la latencia del sistema en los juegos competitivos.
+>Reflex ofrece la mejor ventaja competitiva. La latencia más baja. La mejor respuesta. Con las GPUs GeForce RTX Serie 30 y los monitores gamers NVIDIA G-SYNC®. Apunta a los objetivos más rápido, reacciona con más velocidad y aumenta la precisión de la mira mediante un revolucionario conjunto de tecnologías diseñadas para optimizar y medir la latencia del sistema en los juegos competitivos.
 
 ## ESPECIFICACIONES
-Núcleos CUDA® de NVIDIA	10496
-Frecuencia Modificada	1.70 GHz
-Tamaño de la Memoria	24 GB
-Tipo de Memoria	GDDR6X
+>- Núcleos CUDA® de NVIDIA	10496
+>- Frecuencia Modificada	1.70 GHz
+>- Tamaño de la Memoria	24 GB
+>- Tipo de Memoria	GDDR6X
 
 ## VALOR DE SALIDA DEL PRODUCTO
-Al salir este la nueva GTX 3090 el precio que estremeció el mercado fue de nada mas y nada menos que $1,499 dolares, sin embargo, hoy en dia esa cifra aumento debido al escaso
+>Al salir este la nueva GTX 3090 el precio que estremeció el mercado fue de nada mas y nada menos que $1,499 dolares, sin embargo, hoy en dia esa cifra aumento debido al escaso
 stock por parte de las compañias que producen este producto, llegando de esta manera al desorbitante valor de $3445 dolares!.
 
 
@@ -49,7 +49,7 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 
 
 ## COMPARATIVA
-Como veis, se corrobora la idea de que la RTX 3090 gana ventaja sobre la 6900 XT con el aumento de la resolución. Pero aquí la gran clave es que la diferencia de precio es inmensa actualmente, pues estaríamos pagando (si las gráficas se vendiesen a su precio normal) un 50% más por unas ganancias del 7% en rendimiento. Aquí entrará el presupuesto de cada uno y a qué titulos concretos va a jugar. También es cierto que esta misma argumentación sirve para recomendar la RTX 3080 y RX 6800 XT sobre la RTX 3090 y RX 6900 XT, dado que no hay diferencias de rendimiento excesivas, como se pudo ver en los gráficos de arriba.
+>Como veis, se corrobora la idea de que la RTX 3090 gana ventaja sobre la 6900 XT con el aumento de la resolución. Pero aquí la gran clave es que la diferencia de precio es inmensa actualmente, pues estaríamos pagando (si las gráficas se vendiesen a su precio normal) un 50% más por unas ganancias del 7% en rendimiento. Aquí entrará el presupuesto de cada uno y a qué titulos concretos va a jugar. También es cierto que esta misma argumentación sirve para recomendar la RTX 3080 y RX 6800 XT sobre la RTX 3090 y RX 6900 XT, dado que no hay diferencias de rendimiento excesivas, como se pudo ver en los gráficos de arriba.
 
 ![Octocat](https://www.profesionalreview.com/wp-content/uploads/2020/10/AMD-Radeon-RX-6900-XT-000165.jpg)
 
