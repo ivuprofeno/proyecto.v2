@@ -8,31 +8,7 @@ La GeForce RTX™ 3090 es increíblemente potente en todas las formas, por lo qu
 
 ## Header 2
 
-> This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-
-
-                                                                                                                                                                                                                                                                                                          
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
 ### And a nested list:
 
 - level 1 item
