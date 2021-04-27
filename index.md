@@ -26,13 +26,12 @@ stock por parte de las compañias que producen este producto, llegando de esta m
 
 
 
-
-
-
 ## AMD
 RX 6900 XT 
 EL CABALLO DE GUERRA POR PARTE DE AMD
 >La tarjeta XT gráfica AMD Radeon™ RX 6800 XT, potenciada con la arquitectura AMD RDNA™ 2 y equipada con 80 potentes unidades de procesamiento mejoradas, 128MB de la flamante tecnología AMD Infinity Cache y 16GB de memoria GDDR6 dedicada, está diseñada para alcanzar velocidades de cuadros ultraaltas y jugar en 4K con una calidad deslumbrante.
+
+![Octocat](https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%206900%20XT%2016G(M1).png)
 
 ## RENDIMIENTO
 >De la tarjeta de video Radeon RX 6900 XT puedes esperar un rendimiento 4K que supera los 60 fps en la mayoría de los juegos modernos. No obstante, una cosa es ofrecer tasas de fotogramas en 4K y otra es hacerlo con coherencia en varios juegos y puntos de referencia. Lo cierto es que esta tarjeta gráfica raramente alcanza el rendimiento de la RTX 3090 de Nvidia, excepto en los casos en los que la RX 6800 XT también logra superar a la RTX 3090, lo que no pasa muy a menudo.
@@ -49,7 +48,7 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 
 
 ## COMPARATIVA
->Como veis, se corrobora la idea de que la RTX 3090 gana ventaja sobre la 6900 XT con el aumento de la resolución. Pero aquí la gran clave es que la diferencia de precio es inmensa actualmente, pues estaríamos pagando (si las gráficas se vendiesen a su precio normal) un 50% más por unas ganancias del 7% en rendimiento. Aquí entrará el presupuesto de cada uno y a qué titulos concretos va a jugar. También es cierto que esta misma argumentación sirve para recomendar la RTX 3080 y RX 6800 XT sobre la RTX 3090 y RX 6900 XT, dado que no hay diferencias de rendimiento excesivas, como se pudo ver en los gráficos de arriba.
+>Como pueden apreciar, se corrobora la idea de que la RTX 3090 gana ventaja sobre la 6900 XT con el aumento de la resolución. Pero aquí la gran clave es que la diferencia de precio es inmensa actualmente, pues estaríamos pagando (si las gráficas se vendiesen a su precio normal) un 50% más por unas ganancias del 7% en rendimiento. Aquí entrará el presupuesto de cada uno y a qué titulos concretos va a jugar. También es cierto que esta misma argumentación sirve para recomendar la RTX 3080 y RX 6800 XT sobre la RTX 3090 y RX 6900 XT, dado que no hay diferencias de rendimiento excesivas, como se pudo ver en los gráficos de abajo.
 
 ![Octocat](https://www.profesionalreview.com/wp-content/uploads/2020/10/AMD-Radeon-RX-6900-XT-000165.jpg)
 
