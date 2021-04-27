@@ -1,4 +1,4 @@
- ## _NUESTROS CONTRINCANTES_
+## _NUESTROS CONTRINCANTES_
 >En esta revisión, veremos a 2 pesos pesados en la industria de los componentes para pc. Así es, hablaremos sobre esas poderosas bestias que están rompiendo con el mercado, las tarjetas: Nvidia GeForce RTX 3090 y AMD RX 6900 XT.
 ## NVIDIA                                                                                                                                                     
 GEFORCE RTX 3090
@@ -7,7 +7,7 @@ _LA JUGADA DEFINITIVA_
 
 ![Octocat](https://www.gigabyte.com/FileUpload/Global/KeyFeature/1656/innergigabyteimages/kf-img.png)
  
- ## GAMING EN 8K HDR
+## GAMING EN 8K HDR
 >Conecta dispositivos, juega, captura contenido y míralo en brillante HDR con una resolución hasta 8K gracias a GeForce RTX 3090. El puerto HDMI 2.1 permite disfrutar de la resolución 8K con un solo cable. Captura contenido HDR hasta en 8K con la función GeForce Experience™ ShadowPlay™ y reprodúcelo de forma fluida con el decodificador AV1.
 
 ## LA VICTORIA SE MIDE EN MILISEGUNDOS NVIDIA
