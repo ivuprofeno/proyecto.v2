@@ -28,9 +28,13 @@ EL CABALLO DE GUERRA POR PARTE DE AMD
 - La tarjeta XT gráfica AMD Radeon™ RX 6800 XT, potenciada con la arquitectura AMD RDNA™ 2 y equipada con 80 potentes unidades de procesamiento mejoradas, 128MB de la flamante tecnología AMD Infinity Cache y 16GB de memoria GDDR6 dedicada, está diseñada para alcanzar velocidades de cuadros ultraaltas y jugar en 4K con una calidad deslumbrante.
 
 ![Octocat](https://dlcdnwebimgs.asus.com/gain/19384e4b-f745-45af-b059-5a38d568c21e/)
+ 
 
+## AMD Radeon RX 6900 XT: especificaciones técnicas
+- Los procesadores gráficos de la familia Radeon RX 6000 estrenan la arquitectura RDNA 2. De hecho, esta es su principal baza porque es lo que los desmarca con claridad de las GPU de la familia Radeon RX 5000. En la siguiente sección de este análisis indagaremos en las principales características de esta arquitectura, pero ahora nos viene bien saber que los nuevos chips están siendo fabricados, al igual que sus predecesores, por el fabricante taiwanés de semiconductores TSMC utilizando fotolitografía de 7 nm.
 
-
+## RENDIMIENTO
+De la tarjeta de video Radeon RX 6900 XT puedes esperar un rendimiento 4K que supera los 60 fps en la mayoría de los juegos modernos. No obstante, una cosa es ofrecer tasas de fotogramas en 4K y otra es hacerlo con coherencia en varios juegos y puntos de referencia. Lo cierto es que esta tarjeta gráfica raramente alcanza el rendimiento de la RTX 3090 de Nvidia, excepto en los casos en los que la RX 6800 XT también logra superar a la RTX 3090, lo que no pasa muy a menudo.
 ## COMPARATIVA
 ![Octocat](https://www.profesionalreview.com/wp-content/uploads/2020/10/AMD-Radeon-RX-6900-XT-000165.jpg)
 
