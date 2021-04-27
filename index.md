@@ -46,7 +46,7 @@ La GeForce RTX™ 3090 es increíblemente potente en todas las formas, por lo qu
 <dt>Birthplace</dt>
 <dd>Japan</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>Blue</dd>
 </dl>
 
 ```
