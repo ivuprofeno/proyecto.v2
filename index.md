@@ -20,6 +20,10 @@ Frecuencia Modificada	1.70 GHz
 Tamaño de la Memoria	24 GB
 Tipo de Memoria	GDDR6X
 
+## VALOR DE SALIDA EL PRODUCTO
+Al salir este la nueva GTX 3090 el precio que estremeció el mercado fue de nada mas y nada menos que $1,499 dolares, sin embargo, hoy en dia esa cifra aumento debido al escaso
+stock por parte de las compañias que producen este producto, llegando de esta manera al desorbitante valor de $3445 dolares!.
+
 
 
 
