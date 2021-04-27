@@ -32,7 +32,17 @@ stock por parte de las compañias que producen este producto, llegando de esta m
 ## AMD
 RX 6900 XT 
 EL CABALLO DE GUERRA POR PARTE DE AMD
+>La tarjeta XT gráfica AMD Radeon™ RX 6800 XT, potenciada con la arquitectura AMD RDNA™ 2 y equipada con 80 potentes unidades de procesamiento mejoradas, 128MB de la flamante tecnología AMD Infinity Cache y 16GB de memoria GDDR6 dedicada, está diseñada para alcanzar velocidades de cuadros ultraaltas y jugar en 4K con una calidad deslumbrante.
 
+## RENDIMIENTO
+>De la tarjeta de video Radeon RX 6900 XT puedes esperar un rendimiento 4K que supera los 60 fps en la mayoría de los juegos modernos. No obstante, una cosa es ofrecer tasas de fotogramas en 4K y otra es hacerlo con coherencia en varios juegos y puntos de referencia. Lo cierto es que esta tarjeta gráfica raramente alcanza el rendimiento de la RTX 3090 de Nvidia, excepto en los casos en los que la RX 6800 XT también logra superar a la RTX 3090, lo que no pasa muy a menudo.
+
+## ESPECIFICACIONES
+>- Unidades de cómputo: 80
+>Aceleradores de rayos: 80
+>Frecuencia de aumento: 2250 MHz
+>Frecuencia de juego: 2015 MHz
+>Procesadores de transmisión: 5120
 
 
 
